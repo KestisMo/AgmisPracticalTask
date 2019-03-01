@@ -1,0 +1,47 @@
+body {
+    margin: 40px;
+    background-color: #bcbd8b;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+    width: 100%;
+    text-align: center;
+
+}
+
+.list {
+    display: inline-block;
+    width: 700px;
+    height: 120px;
+    padding: 10px;
+    background: #eff1ed;
+    box-shadow: 0px 6px 4px 1px rgba(0, 0, 0, 0.4);
+}
+
+#h1 {
+    color: black;
+}
+
+#enterTheCity {
+    margin-right: 5px;
+}
+
+.cityName {
+    padding: 10px;
+    background: #eff1ed;
+    box-shadow: 0px 6px 4px 1px rgba(0, 0, 0, 0.4);
+}
+
+#h1Name {
+    font-weight: 900;
+}
+
+#enterCityName {
+    color: red;
+    font-weight: bold;
+}
+
+#previous {
+    color: #766153;
+}
